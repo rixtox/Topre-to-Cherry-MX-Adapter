@@ -10,6 +10,13 @@ I also made an extra 2.25x plunger model for left Shift and Enter keys.
 
 ![Plunger 2.25x](/IMG/Plunger 2.25x.jpg?raw=true "Plunger 2.25x")
 
+In case you couldn't buy a PBT Topre 6x spacebar, I also made a model
+for you to 3D print it.
+
+![Spacebar 6x Top](/IMG/Spacebar 6x Top.jpg?raw=true "Spacebar 6x Top")
+
+![Spacebar 6x Bottom](/IMG/Spacebar 6x Bottom.jpg?raw=true "Spacebar 6x Bottom")
+
 ## File Structure
 
     .
