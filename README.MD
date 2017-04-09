@@ -4,18 +4,18 @@ This is a 3D printable model made with SolidWorks that works to replace the cyli
 
 This model made several improvements to [Matt3o's beta STL design model][1]. The base stands were made thinner to prevent stucking the rubber dome while pressed. The base was made exactly the same as the original Topre's to retain the touch feeling.
 
-![Plunger 1x](/IMG/Plunger 1x.jpg?raw=true "Plunger 1x")
+![Plunger 1x](/IMG/Plunger%201x.jpg?raw=true "Plunger 1x")
 
 I also made an extra 2.25x plunger model for left Shift and Enter keys.
 
-![Plunger 2.25x](/IMG/Plunger 2.25x.jpg?raw=true "Plunger 2.25x")
+![Plunger 2.25x](/IMG/Plunger%202.25x.jpg?raw=true "Plunger 2.25x")
 
 In case you couldn't buy a PBT Topre 6x spacebar, I also made a model
 for you to 3D print it.
 
-![Spacebar 6x Top](/IMG/Spacebar 6x Top.jpg?raw=true "Spacebar 6x Top")
+![Spacebar 6x Top](/IMG/Spacebar%206x%20Top.jpg?raw=true "Spacebar 6x Top")
 
-![Spacebar 6x Bottom](/IMG/Spacebar 6x Bottom.jpg?raw=true "Spacebar 6x Bottom")
+![Spacebar 6x Bottom](/IMG/Spacebar%206x%20Bottom.jpg?raw=true "Spacebar 6x Bottom")
 
 ## File Structure
 
