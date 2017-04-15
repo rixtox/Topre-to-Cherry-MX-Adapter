@@ -1,5 +1,7 @@
 # Topre to Cherry MX Adapter
 
+> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">HHKB Topre to Cherry MX Adapters</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/rixtox/Topre-to-Cherry-MX-Adapter" property="cc:attributionName" rel="cc:attributionURL">Naiwei Zheng</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
 This is a 3D printable model made with SolidWorks that works to replace the cylindrical sliders (or plunger) of Topre switches on HHKB. The idea was first come up with Matt3o, and then the NovaTouch implemented the design in their products.
 
 This model made several improvements to [Matt3o's beta STL design model][1]. The base stands were made thinner to prevent stucking the rubber dome while pressed. The base was made exactly the same as the original Topre's to retain the touch feeling.
