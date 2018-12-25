@@ -8,22 +8,26 @@ This model made several improvements to [Matt3o's beta STL design model][1]. The
 
 If you want to support this work, you can buy from my [Shapeways shop](https://www.shapeways.com/shops/axiom-1) where I make 10% fixed profits, or you can donate to [my PayPal](https://paypal.me/naiwei) or BitCoin wallet: 14VSt78bfgMx9pWXV9qbMMsxter7KYHCRd. However you are always welcome to print and use this work for personal use without paying me.
 
-![Plunger 1x](/IMG/Plunger%201x.jpg?raw=true "Plunger 1x")
+![Plunger 1u](/IMG/Plunger%201u.jpg?raw=true "Plunger 1u")
 
-I also made an extra 2.25x plunger model for left Shift and Enter keys.
+I also made an extra 2.25u plunger model for left Shift and Enter keys.
 
-![Plunger 2.25x](/IMG/Plunger%202.25x.jpg?raw=true "Plunger 2.25x")
+![Plunger 2.25u](/IMG/Plunger%202.25u.jpg?raw=true "Plunger 2.25u")
 
-In addition, you can use 6.25x MX spacebar with these stabilizers.
+In addition, you can use 6.25u MX spacebar with these stabilizers.
 
-![Spacebar Stabilizers](/IMG/Stabilizers.png?raw=true "Spacebar Stabilizers")
+![6.25u Spacebar Stabilizers](/IMG/6.25u%20Stabilizers.png?raw=true "6.25u Spacebar Stabilizers")
 
-In case you couldn't buy a PBT Topre 6x spacebar, I also made a model
+If you have centered stem 6u MX spacebar, you can use these stabilizers.
+
+![6u Spacebar Stabilizers](/IMG/6u%20Stabilizers.png?raw=true "6 Spacebar Stabilizers")
+
+In case you couldn't buy a PBT Topre 6u spacebar, I also made a model
 for you to 3D print it.
 
-![Spacebar 6x Top](/IMG/Spacebar%206x%20Top.jpg?raw=true "Spacebar 6x Top")
+![Spacebar 6u Top](/IMG/Spacebar%206u%20Top.jpg?raw=true "Spacebar 6u Top")
 
-![Spacebar 6x Bottom](/IMG/Spacebar%206x%20Bottom.jpg?raw=true "Spacebar 6x Bottom")
+![Spacebar 6u Bottom](/IMG/Spacebar%206u%20Bottom.jpg?raw=true "Spacebar 6u Bottom")
 
 ## File Structure
 
